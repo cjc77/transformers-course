@@ -1,4 +1,5 @@
 myenv/
 temp/
+data/
 
 .ipynb_checkpoints
